@@ -1,0 +1,17 @@
+{
+  "name": "chatv1-server",
+  "version": "1.0.0",
+  "description": "A simple chat server to test drive websockets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Tan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "morgan": "^1.10.0"
+  }
+}
